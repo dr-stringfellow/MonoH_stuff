@@ -1,0 +1,231 @@
+[?1034hsinglemuon data yield: 40297.0
+Pre-Fit diboson 354.681918144
+Pre-Fit qcd 552.836426973
+Pre-Fit top 2467.97948551
+Pre-Fit zll 1305.23082519
+Pre-Fit wjets 36366.5511169
+Post-Fit diboson bin 1 166.200256348 error 46.4246370514
+Post-Fit diboson bin 2 80.4998016357 error 22.4859766174
+Post-Fit diboson bin 3 40.6377601624 error 11.3513266952
+Post-Fit diboson bin 4 19.6890792847 error 5.4997421551
+Post-Fit diboson bin 5 22.1112689972 error 6.1763300691
+Post-Fit diboson bin 6 8.74908828735 error 2.44387867667
+Post-Fit diboson bin 7 5.30334758759 error 1.48138145958
+Post-Fit diboson 343.190602303
+Post-Fit qcd bin 1 278.335021973 error 113.693203003
+Post-Fit qcd bin 2 174.272583008 error 71.1861736117
+Post-Fit qcd bin 3 40.739490509 error 16.6411078298
+Post-Fit qcd bin 4 13.7051286697 error 5.59821693184
+Post-Fit qcd bin 5 17.8098621368 error 7.27490273702
+Post-Fit qcd bin 6 4.47615432739 error 1.82840170356
+Post-Fit qcd bin 7 1.04017567635 error 0.42488686545
+Post-Fit qcd 530.3784163
+Post-Fit top bin 1 1291.00256348 error 240.075658953
+Post-Fit top bin 2 567.34185791 error 105.503278492
+Post-Fit top bin 3 240.512924194 error 44.7259505451
+Post-Fit top bin 4 112.543548584 error 20.9286719543
+Post-Fit top bin 5 91.9636917114 error 17.1016309797
+Post-Fit top bin 6 16.2714042664 error 3.02584100158
+Post-Fit top bin 7 9.97121143341 error 1.85425347132
+Post-Fit top 2329.60720158
+Post-Fit zll bin 1 797.743225098 error 136.440554016
+Post-Fit zll bin 2 265.011138916 error 45.3257027169
+Post-Fit zll bin 3 113.13041687 error 19.3490500638
+Post-Fit zll bin 4 42.8127250671 error 7.32239642043
+Post-Fit zll bin 5 27.3670787811 error 4.68067864954
+Post-Fit zll bin 6 7.06323003769 error 1.20804672364
+Post-Fit zll bin 7 3.35721921921 error 0.574195815134
+Post-Fit zll 1256.48503399
+Post-Fit wjets bin 1 20378.9648438 error 445.641504012
+Post-Fit wjets bin 2 8284.3515625 error 196.894917767
+Post-Fit wjets bin 3 3556.38476562 error 86.4541024395
+Post-Fit wjets bin 4 1676.05310059 error 43.6928206493
+Post-Fit wjets bin 5 1290.36499023 error 43.2014186308
+Post-Fit wjets bin 6 419.18951416 error 15.7283402114
+Post-Fit wjets bin 7 239.306777954 error 10.7150497278
+Post-Fit wjets 35844.6155548
+dimuon data yield: 3861.0
+Pre-Fit diboson 35.3614321351
+Pre-Fit top 35.4101523161
+Pre-Fit zll 3772.52828026
+Post-Fit diboson bin 1 16.5320568085 error 4.61789184852
+Post-Fit diboson bin 2 7.20114469528 error 2.01149179975
+Post-Fit diboson bin 3 4.65857505798 error 1.30127783338
+Post-Fit diboson bin 4 2.54349422455 error 0.710473043822
+Post-Fit diboson bin 5 2.41331362724 error 0.674109849224
+Post-Fit diboson bin 6 0.501129806042 error 0.139980366841
+Post-Fit diboson bin 7 0.366047173738 error 0.102247774547
+Post-Fit diboson 34.2157613933
+Post-Fit top bin 1 14.1014947891 error 2.62232361889
+Post-Fit top bin 2 11.205742836 error 2.08382765548
+Post-Fit top bin 3 3.09691381454 error 0.575904299141
+Post-Fit top bin 4 2.24083447456 error 0.416707081002
+Post-Fit top bin 5 1.54796385765 error 0.287860452777
+Post-Fit top bin 6 1.23186039925 error 0.229077586072
+Post-Fit top bin 7 0.0 error 0.0
+Post-Fit top 33.4248101711
+Post-Fit zll bin 1 2129.86914062 error 35.2559296511
+Post-Fit zll bin 2 888.477966309 error 17.5119903904
+Post-Fit zll bin 3 387.739562988 error 9.96732828412
+Post-Fit zll bin 4 184.696777344 error 5.86380600281
+Post-Fit zll bin 5 149.086807251 error 4.33986125431
+Post-Fit zll bin 6 46.6333236694 error 1.78191707484
+Post-Fit zll bin 7 25.8696327209 error 1.31231490601
+Post-Fit zll 3812.37321091
+gjets data yield: 61337.0
+Pre-Fit gjets 57170.533844
+Pre-Fit qcd 2690.9031055
+Post-Fit gjets bin 1 33112.6875 error 829.086882416
+Post-Fit gjets bin 2 13799.3193359 error 314.227248067
+Post-Fit gjets bin 3 5777.57568359 error 109.95858193
+Post-Fit gjets bin 4 2663.61376953 error 55.8162666921
+Post-Fit gjets bin 5 2106.12866211 error 51.8022969948
+Post-Fit gjets bin 6 715.831970215 error 25.5200670607
+Post-Fit gjets bin 7 436.547576904 error 20.2468656775
+Post-Fit gjets 58611.7044983
+Post-Fit qcd bin 1 1784.53198242 error 897.500734462
+Post-Fit qcd bin 2 670.985412598 error 337.461043759
+Post-Fit qcd bin 3 148.771652222 error 74.8222482651
+Post-Fit qcd bin 4 55.9200286865 error 28.1240522437
+Post-Fit qcd bin 5 52.816242218 error 26.5630520034
+Post-Fit qcd bin 6 8.84666252136 error 4.44928287932
+Post-Fit qcd bin 7 2.3960776329 error 1.20506752016
+Post-Fit qcd 2724.2680583
+singleelectron data yield: 22271.0
+Pre-Fit diboson 200.983913898
+Pre-Fit qcd 212.711255252
+Pre-Fit top 1518.09556103
+Pre-Fit zll 369.727864504
+Pre-Fit wjets 20712.8956299
+Post-Fit diboson bin 1 84.5812835693 error 23.6260512587
+Post-Fit diboson bin 2 43.8207206726 error 12.2404196704
+Post-Fit diboson bin 3 24.6078529358 error 6.8737009295
+Post-Fit diboson bin 4 13.1684331894 error 3.67833178546
+Post-Fit diboson bin 5 15.1494340897 error 4.23168460073
+Post-Fit diboson bin 6 7.59475326538 error 2.1214388326
+Post-Fit diboson bin 7 5.54977273941 error 1.55021535123
+Post-Fit diboson 194.472250462
+Post-Fit qcd bin 1 102.147270203 error 60.6710043115
+Post-Fit qcd bin 2 46.9033660889 error 27.8585442865
+Post-Fit qcd bin 3 21.9986743927 error 13.0662479591
+Post-Fit qcd bin 4 18.2781963348 error 10.8564474427
+Post-Fit qcd bin 5 17.5416469574 error 10.4189688364
+Post-Fit qcd bin 6 4.6967086792 error 2.78963957621
+Post-Fit qcd bin 7 0.957768023014 error 0.568872254785
+Post-Fit qcd 212.523630679
+Post-Fit top bin 1 759.509216309 error 141.238872799
+Post-Fit top bin 2 367.089294434 error 68.2641719874
+Post-Fit top bin 3 151.824584961 error 28.2334014607
+Post-Fit top bin 4 77.1085739136 error 14.3391643499
+Post-Fit top bin 5 52.3191566467 error 9.72930624383
+Post-Fit top bin 6 15.825709343 error 2.94295992099
+Post-Fit top bin 7 9.30382633209 error 1.73014607015
+Post-Fit top 1432.98036194
+Post-Fit zll bin 1 204.574203491 error 34.9889765137
+Post-Fit zll bin 2 82.7341308594 error 14.1502794218
+Post-Fit zll bin 3 34.7871322632 error 5.94975261334
+Post-Fit zll bin 4 15.4040307999 error 2.63460017675
+Post-Fit zll bin 5 13.0180625916 error 2.2265208391
+Post-Fit zll bin 6 3.70320367813 error 0.633370664001
+Post-Fit zll bin 7 1.69903731346 error 0.290591769728
+Post-Fit zll 355.919800997
+Post-Fit wjets bin 1 10836.1982422 error 218.839274473
+Post-Fit wjets bin 2 4722.17041016 error 101.997131906
+Post-Fit wjets bin 3 2172.46337891 error 54.6025969702
+Post-Fit wjets bin 4 1040.59912109 error 29.8031051836
+Post-Fit wjets bin 5 873.92175293 error 27.5289617101
+Post-Fit wjets bin 6 292.387481689 error 11.29426724
+Post-Fit wjets bin 7 178.243453979 error 9.20253135178
+Post-Fit wjets 20115.9838409
+dielectron data yield: 2888.0
+Pre-Fit diboson 29.7995896637
+Pre-Fit top 46.8951357305
+Pre-Fit zll 2868.41290188
+Post-Fit diboson bin 1 13.2675390244 error 3.70601548487
+Post-Fit diboson bin 2 6.3475856781 error 1.7730681375
+Post-Fit diboson bin 3 4.42840528488 error 1.23698447042
+Post-Fit diboson bin 4 2.01741194725 error 0.563522760094
+Post-Fit diboson bin 5 1.83219051361 error 0.511785039721
+Post-Fit diboson bin 6 0.645384609699 error 0.180274980976
+Post-Fit diboson bin 7 0.295597791672 error 0.0825691817952
+Post-Fit diboson 28.8341148496
+Post-Fit top bin 1 22.7061138153 error 4.22244457664
+Post-Fit top bin 2 11.1603984833 error 2.07539555201
+Post-Fit top bin 3 4.30061769485 error 0.799745727527
+Post-Fit top bin 4 2.90139389038 error 0.539545322408
+Post-Fit top bin 5 1.78641700745 error 0.33220332259
+Post-Fit top bin 6 1.09876155853 error 0.20432643133
+Post-Fit top bin 7 0.312160760164 error 0.0580496315629
+Post-Fit top 44.26586321
+Post-Fit zll bin 1 1597.97387695 error 29.8581904282
+Post-Fit zll bin 2 646.295166016 error 14.8499020326
+Post-Fit zll bin 3 290.814941406 error 8.22991383859
+Post-Fit zll bin 4 137.311477661 error 4.62298920454
+Post-Fit zll bin 5 110.62046051 error 3.62108367622
+Post-Fit zll bin 6 36.50598526 error 1.41738555675
+Post-Fit zll bin 7 14.3852148056 error 0.784802762924
+Post-Fit zll 2833.90712261
+signal data yield: 61670.0
+Pre-Fit diboson 410.57213378
+Pre-Fit gjets 9.99999974738e-05
+Pre-Fit qcd 1325.83764327
+Pre-Fit top 1194.41540956
+Pre-Fit zjets 32789.5086365
+Pre-Fit zll 367.063861161
+Pre-Fit wjets 25147.4578285
+Post-Fit diboson bin 1 211.29989624 error 59.022309692
+Post-Fit diboson bin 2 95.7501602173 error 26.7458487168
+Post-Fit diboson bin 3 43.5263900757 error 12.1582045957
+Post-Fit diboson bin 4 21.0034656525 error 5.86688793449
+Post-Fit diboson bin 5 17.0216884613 error 4.75466029661
+Post-Fit diboson bin 6 5.04878330231 error 1.41027404631
+Post-Fit diboson bin 7 3.61965489388 error 1.01107651714
+Post-Fit diboson 397.270038843
+Post-Fit gjets bin 1 9.62653502938e-05 error 1.64645701954e-05
+Post-Fit gjets bin 2 0.0 error 0.0
+Post-Fit gjets bin 3 0.0 error 0.0
+Post-Fit gjets bin 4 0.0 error 0.0
+Post-Fit gjets bin 5 0.0 error 0.0
+Post-Fit gjets bin 6 0.0 error 0.0
+Post-Fit gjets bin 7 0.0 error 0.0
+Post-Fit gjets 9.62653502938e-05
+Post-Fit qcd bin 1 1188.86096191 error 472.952851153
+Post-Fit qcd bin 2 266.328155518 error 105.950696455
+Post-Fit qcd bin 3 36.2731361389 error 14.4301823158
+Post-Fit qcd bin 4 6.8409986496 error 2.72148691733
+Post-Fit qcd bin 5 55.0855865479 error 21.9141549773
+Post-Fit qcd bin 6 2.00604629517 error 0.798045521183
+Post-Fit qcd bin 7 0.393021523952 error 0.156351872107
+Post-Fit qcd 1555.78790659
+Post-Fit top bin 1 749.605651855 error 139.397217216
+Post-Fit top bin 2 238.141464233 error 44.2849462416
+Post-Fit top bin 3 82.6411895752 error 15.3680129884
+Post-Fit top bin 4 36.6648483276 error 6.81821979346
+Post-Fit top bin 5 16.2264194489 error 3.01747652148
+Post-Fit top bin 6 4.16844081879 error 0.775166128315
+Post-Fit top bin 7 0.0 error 0.0
+Post-Fit top 1127.44801426
+Post-Fit zjets bin 1 19566.7167969 error 332.701419256
+Post-Fit zjets bin 2 7526.89208984 error 113.675774471
+Post-Fit zjets bin 3 3138.65795898 error 46.0065693518
+Post-Fit zjets bin 4 1478.77246094 error 31.2369189541
+Post-Fit zjets bin 5 1140.56799316 error 29.5251926891
+Post-Fit zjets bin 6 363.145721436 error 11.9740068131
+Post-Fit zjets bin 7 187.079772949 error 8.77765406768
+Post-Fit zjets 33401.8327942
+Post-Fit zll bin 1 257.269012451 error 44.0015243786
+Post-Fit zll bin 2 65.255027771 error 11.160774318
+Post-Fit zll bin 3 21.6438369751 error 3.70181437932
+Post-Fit zll bin 4 5.48458433151 error 0.938046167147
+Post-Fit zll bin 5 3.1020450592 error 0.530552528062
+Post-Fit zll bin 6 0.470711946487 error 0.0805073624698
+Post-Fit zll bin 7 0.130104005337 error 0.0222521034857
+Post-Fit zll 353.35532254
+Post-Fit wjets bin 1 16410.7695312 error 369.544248582
+Post-Fit wjets bin 2 5143.30322266 error 121.780706462
+Post-Fit wjets bin 3 1882.13806152 error 47.4245415681
+Post-Fit wjets bin 4 704.292419434 error 18.5370431629
+Post-Fit wjets bin 5 444.112548828 error 14.3136664836
+Post-Fit wjets bin 6 111.587654114 error 4.18358309305
+Post-Fit wjets bin 7 53.2280197144 error 2.61649692022
+Post-Fit wjets 24749.4314575

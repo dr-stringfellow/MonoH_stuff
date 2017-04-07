@@ -1,0 +1,16 @@
+# Simple counting experiment, with one signal and a few background processes 
+imax 1  number of channels
+jmax 1  number of backgrounds
+kmax 1  number of nuisance parameters (sources of systematical uncertainties)
+------------
+bin 1
+
+observation 38435.0
+
+------------
+bin              1      1   
+process         sig    bkg  
+process          0      1   
+rate            919.0  38384.5  
+------------
+sys_tmp lnN      -     1.017

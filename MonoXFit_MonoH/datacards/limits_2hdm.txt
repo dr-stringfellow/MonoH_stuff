@@ -1,0 +1,2 @@
+med dm twosigdown onesigdown exp onesigup twosigup
+1700 300 .0815000 .1103000 .1575000 .2284000 .3234000

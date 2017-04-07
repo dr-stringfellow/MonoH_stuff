@@ -1,0 +1,7 @@
+*.root
+*.*~
+*.pyc
+*.so
+*.d
+*.swp
+*.pcm

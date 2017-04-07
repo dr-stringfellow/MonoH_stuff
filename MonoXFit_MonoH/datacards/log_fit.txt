@@ -1,0 +1,125 @@
+>>> including systematics
+>>> method used to compute upper limit is MaxLikelihoodFit
+>>> random number generator seed is 123456
+[?1034hComputing limit starting from observation
+Created Branches
+Constraints of type RooGaussian: 32
+Constraints of type SimpleGaussianConstraint: 56
+Constraints of type RooGaussian: 32
+Constraints of type SimpleGaussianConstraint: 56
+index 0, Name sig/qcd, val 8.90317e-05
+index 1, Name sig/signal, val 0
+index 2, Name ten/qcd, val 8.6679e-05
+index 3, Name wmn/qcd, val 7.85866
+index 4, Name zee/dibosons, val 15.7515
+index 5, Name sig/dibosons, val 36.7107
+index 6, Name sig/stop, val 21.3741
+index 7, Name sig/ttbar, val 238.345
+index 8, Name sig/vh, val 25.4099
+index 9, Name sig/wjets, val 189.273
+index 10, Name sig/zvv, val 354.639
+index 11, Name ten/dibosons, val 0.600519
+index 12, Name ten/stop, val 9.18182
+index 13, Name ten/ttbar, val 211.349
+index 14, Name ten/wjets, val 5.56346
+index 15, Name ten/zll, val 0.328032
+index 16, Name tmn/dibosons, val 1.53606
+index 17, Name tmn/qcd, val 0.320023
+index 18, Name tmn/stop, val 17.1434
+index 19, Name tmn/ttbar, val 338.195
+index 20, Name tmn/wjets, val 18.0305
+index 21, Name tmn/zll, val 0.878936
+index 22, Name wen/dibosons, val 129.49
+index 23, Name wen/qcd, val 29.8362
+index 24, Name wen/stop, val 142.46
+index 25, Name wen/ttbar, val 753.285
+index 26, Name wen/wjets, val 732.455
+index 27, Name wen/zll, val 12.5878
+index 28, Name wmn_fail/dibosons, val 3103.52
+index 29, Name wmn_fail/qcd, val 610.638
+index 30, Name wmn_fail/stop, val 1434.22
+index 31, Name wmn_fail/ttbar, val 6038.87
+index 32, Name wmn_fail/wjets, val 31424.6
+index 33, Name wmn_fail/zll, val 1060.64
+index 34, Name wmn/dibosons, val 208.285
+index 35, Name wmn/stop, val 237.973
+index 36, Name wmn/ttbar, val 1215.3
+index 37, Name wmn/wjets, val 1261.02
+index 38, Name wmn/zll, val 37.6422
+index 39, Name zee_fail/dibosons, val 196.878
+index 40, Name zee_fail/stop, val 6.20434
+index 41, Name zee_fail/ttbar, val 33.1391
+index 42, Name zee_fail/zll, val 2861.26
+index 43, Name zee/stop, val 2.31204
+index 44, Name zee/ttbar, val 4.9086
+index 45, Name zee/zll, val 112.363
+index 46, Name zmm_fail/dibosons, val 259.752
+index 47, Name zmm_fail/stop, val 8.70973
+index 48, Name zmm_fail/ttbar, val 48.7714
+index 49, Name zmm_fail/zll, val 4278.13
+index 50, Name zmm/dibosons, val 19.7285
+index 51, Name zmm/stop, val 3.55308
+index 52, Name zmm/ttbar, val 6.71101
+index 53, Name zmm/zll, val 164.151
+Running Minos for POI 
+Real time 0:00:00, CP time 0.310
+
+index 0, Name sig/qcd, val 8.91553e-05
+index 1, Name sig/signal, val 5.85074
+index 2, Name ten/qcd, val 8.65316e-05
+index 3, Name wmn/qcd, val 7.85171
+index 4, Name zee/dibosons, val 15.9366
+index 5, Name sig/dibosons, val 37.1736
+index 6, Name sig/stop, val 21.2757
+index 7, Name sig/ttbar, val 238.616
+index 8, Name sig/vh, val 25.4444
+index 9, Name sig/wjets, val 190.948
+index 10, Name sig/zvv, val 344.895
+index 11, Name ten/dibosons, val 0.607595
+index 12, Name ten/stop, val 9.1329
+index 13, Name ten/ttbar, val 211.419
+index 14, Name ten/wjets, val 5.56922
+index 15, Name ten/zll, val 0.328057
+index 16, Name tmn/dibosons, val 1.5551
+index 17, Name tmn/qcd, val 0.319761
+index 18, Name tmn/stop, val 17.059
+index 19, Name tmn/ttbar, val 338.4
+index 20, Name tmn/wjets, val 18.0612
+index 21, Name tmn/zll, val 0.879381
+index 22, Name wen/dibosons, val 131.034
+index 23, Name wen/qcd, val 29.7853
+index 24, Name wen/stop, val 141.71
+index 25, Name wen/ttbar, val 753.793
+index 26, Name wen/wjets, val 732.471
+index 27, Name wen/zll, val 12.5925
+index 28, Name wmn_fail/dibosons, val 3141.73
+index 29, Name wmn_fail/qcd, val 610.09
+index 30, Name wmn_fail/stop, val 1427.22
+index 31, Name wmn_fail/ttbar, val 6046.54
+index 32, Name wmn_fail/wjets, val 31384.1
+index 33, Name wmn_fail/zll, val 1061.45
+index 34, Name wmn/dibosons, val 210.852
+index 35, Name wmn/stop, val 236.814
+index 36, Name wmn/ttbar, val 1216.64
+index 37, Name wmn/wjets, val 1258.52
+index 38, Name wmn/zll, val 37.6685
+index 39, Name zee_fail/dibosons, val 199.192
+index 40, Name zee_fail/stop, val 6.17066
+index 41, Name zee_fail/ttbar, val 33.1536
+index 42, Name zee_fail/zll, val 2858.61
+index 43, Name zee/stop, val 2.29944
+index 44, Name zee/ttbar, val 4.91182
+index 45, Name zee/zll, val 112.138
+index 46, Name zmm_fail/dibosons, val 262.884
+index 47, Name zmm_fail/stop, val 8.66501
+index 48, Name zmm_fail/ttbar, val 48.8066
+index 49, Name zmm_fail/zll, val 4275.28
+index 50, Name zmm/dibosons, val 19.9662
+index 51, Name zmm/stop, val 3.53484
+index 52, Name zmm/ttbar, val 6.71744
+index 53, Name zmm/zll, val 164.026
+
+ --- MaxLikelihoodFit ---
+Best fit r: 0.102264  -0.098161/+0.102908  (68% CL)
+nll S+B -> -141.45  nll B -> -140.913
+Done in 0.17 min (cpu), 0.17 min (real)
